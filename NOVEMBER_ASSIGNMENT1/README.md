@@ -25,11 +25,11 @@ generate your flowchart using any relevant software (example RAPTOR).
 
 ## Step one identify the input, process and output of the program
 """
-  INPUT:
+  ## INPUT:
     So we need to read the context above to understand what are the inputs that we will have to get.
     After identifying the INPUT variables then move on to think about how we are going to process it
 
-  PROCESS:
+  ## PROCESS:
     - Request weight of each fruite they want in gram
     - Calculate the total cost customer need to pay
     - Display the itemized bill
@@ -37,7 +37,7 @@ generate your flowchart using any relevant software (example RAPTOR).
     OPTIONAL:
       - You can add any relevant information to make your program more interesting.
 
-  OUPUT
+  ## OUPUT
     - Display the itemized bill
     - Display the total cost customer need to pay
     - Return change if any
