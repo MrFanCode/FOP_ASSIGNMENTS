@@ -1,4 +1,4 @@
-# Assignement sem1 
+# Assignment sem1 
 
 “Fun Fruits Sdn Bhd” sells a special type of imported fruits which are Korean
 Strawberry, Chilean Cherries and Giant Blueberry. Below is the fruits price:
