@@ -15,9 +15,9 @@ pay, and display the itemized bill.
   You can also add any relevant information to make your program more interesting.`
 
 ## Main scope
-a.Identify the input, process and output of the program.
-b.Write the pseudocode.
-c.Draw the flowchart according to the pseudocode. You are encouraging to
+- a.Identify the input, process and output of the program.
+- b.Write the pseudocode.
+- c.Draw the flowchart according to the pseudocode. You are encouraging to
 generate your flowchart using any relevant software (example RAPTOR).
 
 ## The purpose of this program will be:
