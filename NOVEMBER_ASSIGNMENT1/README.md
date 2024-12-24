@@ -30,7 +30,7 @@ generate your flowchart using any relevant software (example RAPTOR).
     After identifying the INPUT variables then move on to think about how we are going to process it
 
   ## PROCESS:
-    - Request weight of each fruite they want in gram
+    - Request weight of each fruit they want in gram
     - Calculate the total cost customer need to pay
     - Display the itemized bill
     - Request payment from customer and return change if any
